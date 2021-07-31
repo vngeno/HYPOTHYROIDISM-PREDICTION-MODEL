@@ -1,6 +1,6 @@
 # HYPOTHYROIDISM-PREDICTION-MODEL
 
-This is a machine learning model that determines whether or not a patient's symptoms indicate that the patient has hypothyroidsm
+This is a machine learning model that determines whether or not a patient's symptoms indicate that the patient has hypothyroidism
 
 # Technologies and Softwares Used
 
